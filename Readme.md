@@ -71,3 +71,51 @@ react/
 ├── package.json
 ├── package-lock.json
 └── README.md
+🛠️ Technologies Used
+React
+JavaScript
+HTML
+CSS
+Vite
+npm
+🚀 Getting Started
+Clone the repository
+git clone https://github.com/Chethana45/react.git
+Open the project
+cd react
+Install dependencies
+npm install
+Start the development server
+npm run dev
+
+Then open the local URL shown in the terminal.
+
+🎯 Purpose
+
+This repository is mainly used for practicing React fundamentals and experimenting with different components and concepts while learning frontend development.
+
+🌱 Future Practice
+
+More React concepts can be added over time, including:
+
+React Router
+API integration
+Forms
+useEffect
+Custom Hooks
+Context API
+Local Storage
+Authentication
+Reusable UI components
+👩‍💻 Author
+
+Chethana Sri
+
+B.E. Computer Science Engineering
+Madras Institute of Technology
+
+<p align="center">
+
+⚛️ <b>Learning React • Building Components • Improving Every Day</b>
+
+</p>
